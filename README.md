@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **deyarpitabanik@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JtbOxTHVN4DshRWQupUGb9_8fpCnqfYQ/view](https://drive.google.com/file/d/1JtbOxTHVN4DshRWQupUGb9_8fpCnqfYQ/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tXHHjr3kXN_45qOvntlWwCdhNEUFg2Sv/view])
 
 - ⚡ Fun fact **Equal is Not Always Equal in Javascript.🤣**
 
